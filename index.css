@@ -26,4 +26,9 @@ img {
 
 .about-me {
     background-color: yellow;
+    border: 1px solid red;
+}
+
+.skills {
+    background-color: aqua;
 }
